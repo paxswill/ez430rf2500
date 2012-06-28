@@ -79,7 +79,7 @@
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.kpi.iokit</key>
-		<string>11.0</string>
+		<string>10.0</string>
 		<key>com.apple.iokit.IOUSBFamily</key>
 		<string>4.4</string>
 	</dict>
